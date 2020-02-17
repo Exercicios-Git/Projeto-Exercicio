@@ -1,3 +1,5 @@
-oi
-
-teste
+nome: Isadora Faedo Thives
+idade: 16 anos 
+Livro favorito: Capitães de areia
+Serie favorita: Greys Anatomy
+Filme favorito: 10 coisas que eu odeio em você
