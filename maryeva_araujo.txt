@@ -1,0 +1,5 @@
+nomne: Maryeva Araujo
+idade: 16 anos 
+Livro favorito: Trono de vidro
+Serie favorita: La casa de Papel
+Filme favorito: Princesa e o Sapo
